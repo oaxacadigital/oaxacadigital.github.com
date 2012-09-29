@@ -1,0 +1,96 @@
+/* Artfully masterminded by ZURB  */
+
+/* -------------------------------------------------- 
+   Table of Contents
+-----------------------------------------------------
+:: Shared Styles
+:: Page Name 1
+:: Page Name 2
+*/
+
+
+/* -----------------------------------------
+   Shared Styles
+----------------------------------------- */
+
+#ban{
+	width:100%;
+	border-bottom:3px solid #CCC;
+	margin-bottom:10px;
+	}
+	
+
+#perfil{
+	width:260px;
+	height:126px;
+	background:url(../images/perfil_bg.png) top left no-repeat;
+	margin: 0 auto;
+	margin-top:10px;
+	margin-bottom:10px;
+	}
+#perfil_link{
+	padding:80px 0 0 10px;
+	}
+#perfil_link a{
+	color:#EEE;
+	margin-left:30px;
+	}
+#perfil_link a:hover{
+	text-decoration:underline;
+	color:#FFF;
+	}
+	
+.proyecto{
+	padding:5px;
+	border-radius: 10px;
+	-ms-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border:1px solid #CCC;
+}
+
+.has-thumb{
+	margin:0 auto;
+	}
+	
+.social{
+	padding:15px 0 15px 35px;
+	}	
+.social a{
+	color:#999;
+	text-decoration:none;
+	font-size:12px;
+	}	
+.social a:hover{
+	color:#C00;
+	text-decoration:none;
+	}
+.facebook{
+	background:url(../images/icon_fb.png) center left no-repeat;
+	}
+.linkedin{
+	background:url(../images/icon_in.png) center left no-repeat;
+	}
+.twitter{
+	background:url(../images/icon_tw.png) center left no-repeat;
+	}
+.sitio{
+	background:url(../images/icon_site.png) center left no-repeat;
+	}
+	
+#social_media{
+	padding:0 0 0 25px;
+	}
+/* -----------------------------------------
+   Page Name 1
+----------------------------------------- */
+
+
+
+
+/* -----------------------------------------
+   Page Name 2
+----------------------------------------- */
+
+
